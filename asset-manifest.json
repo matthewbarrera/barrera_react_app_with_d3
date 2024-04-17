@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/barrera_react_app_with_d3/static/css/main.1e8453c1.css",
+    "main.js": "/barrera_react_app_with_d3/static/js/main.60693e45.js",
+    "static/js/453.64105b0e.chunk.js": "/barrera_react_app_with_d3/static/js/453.64105b0e.chunk.js",
+    "static/media/tips.csv": "/barrera_react_app_with_d3/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/barrera_react_app_with_d3/index.html",
+    "main.1e8453c1.css.map": "/barrera_react_app_with_d3/static/css/main.1e8453c1.css.map",
+    "main.60693e45.js.map": "/barrera_react_app_with_d3/static/js/main.60693e45.js.map",
+    "453.64105b0e.chunk.js.map": "/barrera_react_app_with_d3/static/js/453.64105b0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e8453c1.css",
+    "static/js/main.60693e45.js"
+  ]
+}
